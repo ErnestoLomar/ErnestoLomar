@@ -11,7 +11,8 @@ class ErnestoLomar():
     
   def __init__(self):
     self.name = "Mario Ernesto";
-    self.username = "@ernestolomra";
+    self.age = 23;
+    self.username = "@ernestolomar";
     self.location = "S.L.P, México";
     self.web = "https://ernestolomar.github.io/Portafolio/";
   
