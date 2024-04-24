@@ -34,8 +34,6 @@ if __name__ == '__main__':
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ErnestoLomar&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ErnestoLomar&theme=dark&hide_border=true" />
 
 
   
