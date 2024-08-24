@@ -15,6 +15,7 @@ class ErnestoLomar():
     self.username = "@ernestolomar";
     self.location = "S.L.P, México";
     self.web = "https://ernestolomar.github.io/Portafolio/";
+    self.whatsapp = 4442085194;
   
   def __str__(self):
     return self.name
