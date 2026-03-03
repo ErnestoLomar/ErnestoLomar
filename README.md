@@ -30,8 +30,6 @@
 - 💼 **LinkedIn:** (abajo)
 - 🤝 **Disponible para colaborar** en proyectos Open Source y productos reales
 
-> **Nota:** En GitHub perfiles, menos es más. Esto está optimizado para que se vea serio.
-
 ---
 
 ## 🧰 Tech Stack
