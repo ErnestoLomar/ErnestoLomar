@@ -50,17 +50,6 @@
 
 ---
 
-## 📌 Featured Projects (recomendado)
-
-<!-- TODO: reemplaza por tus repos más fuertes -->
-- 🚀 **Proyecto 1** — breve descripción (impacto, stack, resultado)  
-- 🧠 **Proyecto 2** — breve descripción (qué resuelve y cómo)  
-- ⚙️ **Proyecto 3** — breve descripción (métricas si tienes)  
-
-> Tip: agrega links directos a repos + demo + “qué problema resuelve”.
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -74,14 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErnestoLomar&hide_border=true&theme=github-compact" />
-</p>
-
----
-
-## 🏆 Trophies (opcional, pero se ve bien si no está saturado)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErnestoLomar&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
