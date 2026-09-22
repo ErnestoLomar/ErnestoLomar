@@ -1,12 +1,12 @@
 <!-- ============================================================
-     ERNESTO LOMAR — PERFIL DE GITHUB
-     Software · Arquitectura · Liderazgo Técnico
+     ERNESTO LOMAR — GITHUB PROFILE README
+     Perfil profesional · Ingeniería · Arquitectura · Liderazgo
 ============================================================= -->
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,45:0E75B6,100:2563EB&text=Ernesto%20Lomar&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20CEO%20T%C3%A9cnico%20%C2%B7%20Product%20Builder&descAlignY=59&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,45:0E75B6,100:2563EB&text=Ernesto%20Lomar&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=Software%20Engineer%20%C2%B7%20CEO%20%40%20Alttus%20TI%20%C2%B7%20Founder%20%40%20LOMAR&descAlignY=60&descSize=17&animation=fadeIn"
     alt="Ernesto Lomar"
   />
 </p>
@@ -24,24 +24,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEO-Alttus%20TI-0E75B6?style=flat-square" alt="CEO Alttus TI"/>
-  <img src="https://img.shields.io/badge/Especialidad-Backend-2563EB?style=flat-square" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Especialidad-IoT-0891B2?style=flat-square" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Especialidad-Embedded%20Systems-0F766E?style=flat-square" alt="Embedded Systems"/>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-San%20Luis%20Potos%C3%AD-475569?style=flat-square" alt="San Luis Potosí"/>
+  <img src="https://img.shields.io/badge/Backend-2563EB?style=flat-square" alt="Backend"/>
+  <img src="https://img.shields.io/badge/IoT-0891B2?style=flat-square" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0F766E?style=flat-square" alt="Embedded"/>
+  <img src="https://img.shields.io/badge/Software%20Architecture-334155?style=flat-square" alt="Architecture"/>
+  <img src="https://img.shields.io/badge/Technical%20Leadership-7C3AED?style=flat-square" alt="Leadership"/>
 </p>
 
+<h3 align="center">Construyendo tecnología para operaciones del mundo real.</h3>
+
 <p align="center">
-  <strong>Construyendo tecnología para operaciones del mundo real.</strong>
+  <sub>San Luis Potosí, México · Ingeniería de software · Arquitectura · Producto · Liderazgo técnico</sub>
 </p>
 
 <br/>
 
+👋 Perfil
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-👋 Sobre mí
+Sobre mí
 
 Soy Ernesto Lomar, Ingeniero de Software enfocado en construir sistemas de producción donde software, dispositivos, datos y operación deben funcionar como una sola pieza.
 
@@ -51,176 +55,331 @@ CEO de Alttus TI
 
 Founder de LOMAR
 
-Mi experiencia incluye plataformas de movilidad, IoT, sistemas embebidos, geolocalización, arquitectura backend, RFID/NFC y software operativo.
+Mi experiencia abarca plataformas de movilidad, IoT, sistemas embebidos, geolocalización, backend, RFID/NFC y software operativo.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-🎯 Enfoque
+Cómo pienso los sistemas
 
-Dispositivos
-     ↓
-Conectividad
-     ↓
-Backend
-     ↓
-Datos
-     ↓
-Operación
+01 · Dispositivos
+Hardware, GPS, RFID/NFC, móviles
 
-Ingeniería · Arquitectura · Producto · Liderazgo
+02 · Conectividad
+TCP/IP, WebSockets, serial, APIs
+
+03 · Backend
+Servicios, lógica, procesamiento
+
+04 · Datos
+SQL, trazabilidad, persistencia
+
+05 · Operación
+Apps, dashboards, decisiones
 
 </td>
 </tr>
 </table>
 
-🚕 Caso destacado · Mi Taxi
+🚕 Caso insignia · Mi Taxi
 
 <p>
-  <img src="https://img.shields.io/badge/ESTADO-EN%20PRODUCCI%C3%93N-16A34A?style=for-the-badge" alt="En producción"/>
-  <img src="https://img.shields.io/badge/ROL-CEO%20%2F%20ARQUITECTURA-0E75B6?style=for-the-badge" alt="CEO Arquitectura"/>
-  <img src="https://img.shields.io/badge/EQUIPO-~10%20PERSONAS-334155?style=for-the-badge" alt="Equipo"/>
+  <img src="https://img.shields.io/badge/EN%20PRODUCCI%C3%93N-16A34A?style=for-the-badge" alt="En producción"/>
+  <img src="https://img.shields.io/badge/ROL-CEO%20%2B%20ARQUITECTURA-0E75B6?style=for-the-badge" alt="CEO Arquitectura"/>
+  <img src="https://img.shields.io/badge/EQUIPO-~10%20PERSONAS-475569?style=for-the-badge" alt="Equipo"/>
 </p>
 
 Mi Taxi es una plataforma de movilidad desarrollada integralmente por Alttus TI para la Secretaría de Comunicaciones y Transportes de San Luis Potosí.
 
 El proyecto comenzó en octubre de 2025 y entró a producción en agosto de 2026.
 
-Como CEO, lideré su arquitectura general, dirección de producto, priorización técnica, coordinación del equipo y salida a producción, manteniéndome además involucrado de forma cercana en la ingeniería de la aplicación para conductores.
+Como CEO, lideré la arquitectura general, dirección de producto, priorización técnica, coordinación del equipo y salida a producción, manteniéndome además involucrado de forma cercana en la ingeniería de la aplicación para conductores.
 
 <br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>2,500+</h3>
-Conductores
+<h2>2,500+</h2>
+<b>Conductores</b>
 </td>
 <td align="center" width="33%">
-<h3>7,500+</h3>
-Pasajeros
+<h2>7,500+</h2>
+<b>Pasajeros</b>
 </td>
 <td align="center" width="33%">
-<h3>10,000+</h3>
-Solicitudes durante FENAPO
+<h2>10,000+</h2>
+<b>Solicitudes durante FENAPO</b>
 </td>
 </tr>
 </table>
 
-Ecosistema del producto
+<br/>
 
-┌────────────────────┐
-│   APP PASAJERO     │
-│ Solicitar · Seguir │
-│ Pagar · Calificar  │
-│ SOS                │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│   BACKEND & APIs   │
-│ Viajes · GPS       │
-│ Tarifas · Usuarios │
-│ Pagos              │
-└──────┬────────┬────┘
-       │        │
-       ▼        ▼
-┌────────────┐  ┌────────────────────┐
-│ APP        │  │ DASHBOARD          │
-│ CONDUCTOR  │  │ OPERATIVO          │
-│ Viajes     │  │ Monitoreo          │
-│ Navegación │  │ Reportes · Seguridad│
-│ Taxímetro  │  │                    │
-└────────────┘  └────────────────────┘
+Ecosistema del producto
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-📱 Plataforma
+📱 App de pasajero
 
-Aplicación para pasajero
+Registro e inicio de sesión
 
-Aplicación para conductor
+Solicitud de viaje
 
-Backend y APIs
+Asignación de conductor
 
-Dashboard operativo
+Seguimiento en mapa
 
-Seguimiento GPS
+Tarifa estimada
 
-Asignación por proximidad
+Pago
 
-Gestión completa del viaje
+Historial
 
-Taxímetro digital
+Calificación
 
-Pagos en efectivo y tarjeta
+SOS / seguridad
 
 </td>
 <td width="50%" valign="top">
 
-🛡️ Operación y seguridad
+🚖 App de conductor
+
+Disponibilidad
+
+Recepción de solicitudes
+
+Aceptación / rechazo
+
+Navegación
+
+Inicio y fin de viaje
+
+Taxímetro digital
+
+Cobro
+
+Historial
+
+Operación GPS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+⚙️ Backend & APIs
+
+Gestión de usuarios
+
+Gestión de viajes
+
+Lógica de asignación
+
+GPS y geolocalización
+
+Tarifas
+
+Pagos
+
+Notificaciones
+
+Estados del viaje
+
+Integraciones externas
+
+</td>
+<td width="50%" valign="top">
+
+📊 Dashboard operativo
+
+Monitoreo de unidades
+
+Conductores y pasajeros
+
+Viajes
+
+Tarifas
+
+Reportes
+
+Incidencias
+
+Configuración
+
+Bloqueos
+
+Métricas
+
+Seguridad
+
+</td>
+</tr>
+</table>
+
+Flujo principal
+
+<p align="center">
+  <b>Solicitud</b>
+  &nbsp;→&nbsp;
+  <b>Asignación por proximidad</b>
+  &nbsp;→&nbsp;
+  <b>Llegada del conductor</b>
+  &nbsp;→&nbsp;
+  <b>Viaje</b>
+  &nbsp;→&nbsp;
+  <b>Taxímetro</b>
+  &nbsp;→&nbsp;
+  <b>Pago</b>
+  &nbsp;→&nbsp;
+  <b>Calificación</b>
+</p>
+
+<br/>
+
+🧩 Mi responsabilidad
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Liderazgo & producto
+
+Arquitectura general del sistema
+
+Dirección de producto
+
+Coordinación de ~10 personas
+
+Priorización de funcionalidades
+
+Planeación de releases
+
+Seguimiento de entregas
+
+Reuniones institucionales
+
+Soporte y evolución en producción
+
+</td>
+<td width="50%" valign="top">
+
+Ingeniería & decisiones técnicas
+
+Participación cercana en la app de conductor
+
+Definición de flujos operativos
+
+Decisiones de estabilidad y escalabilidad
+
+Priorización técnica para producción
+
+Revisión de integraciones
+
+Resolución de problemas reales de operación
+
+Equilibrio entre tiempo, costo y robustez
+
+</td>
+</tr>
+</table>
+
+⚙️ Reto técnico destacado · Taxímetro digital
+
+Uno de los retos más importantes en producción fue garantizar que el cálculo por distancia y tiempo se mantuviera confiable durante el uso normal del teléfono.
+
+El problema aparecía cuando el conductor:
+
+bloqueaba el dispositivo;
+
+cambiaba a otra aplicación;
+
+dejaba Mi Taxi en segundo plano.
+
+Solución
+
+La lógica del taxímetro se desacopló del ciclo visible de la aplicación y se llevó a un proceso independiente, permitiendo mantener el cálculo activo aun cuando la app no estuviera en primer plano.
+
+El software en producción debe diseñarse alrededor del comportamiento real del usuario, no únicamente de escenarios ideales.
+
+🛡️ Seguridad y operación
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Seguridad
 
 Botón SOS / pánico
 
-Flujos de seguridad en tiempo real
+Seguimiento de viaje
 
-Validación de conductores y unidades
+Validación de conductores
 
-Monitoreo de viajes
+Validación de unidades
 
-Historial y calificaciones
+Historial y trazabilidad
+
+Comunicación operativa
+
+Flujos en tiempo real
+
+</td>
+<td width="50%" valign="top">
+
+Integraciones
 
 Google Maps APIs
 
 Firebase
 
-SMS · Correo · Llamadas
+GPS
+
+SMS
+
+Correo
+
+Llamadas
+
+Pagos
+
+Servicios de comunicación
 
 </td>
 </tr>
 </table>
 
-⚙️ Reto de ingeniería · Taxímetro digital
+🧰 Stack principal de Mi Taxi
 
-Uno de los retos más importantes en producción fue mantener el cálculo de tarifa de forma confiable cuando el conductor:
-
-bloqueaba el teléfono;
-
-cambiaba de aplicación;
-
-dejaba Mi Taxi ejecutándose en segundo plano.
-
-La solución fue desacoplar el proceso del taxímetro del ciclo visible de la aplicación, permitiendo que el cálculo por distancia y tiempo continuara de manera independiente durante el uso normal del dispositivo.
-
-El software en producción debe diseñarse alrededor del comportamiento real del usuario, no únicamente de escenarios ideales.
-
-Stack principal
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/GPS-Tiempo%20real-0891B2?style=flat-square" alt="GPS"/>
-  <img src="https://img.shields.io/badge/REST-APIs-475569?style=flat-square" alt="REST APIs"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase"/>
 </p>
 
-🔒 El código de producción, la infraestructura interna, los servidores y las integraciones privadas son propietarios y no se publican.
+<p align="center">
+  <img src="https://img.shields.io/badge/GPS-Tiempo%20real-0891B2?style=flat-square" alt="GPS"/>
+  <img src="https://img.shields.io/badge/REST-APIs-475569?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Mobile-Background%20Processes-334155?style=flat-square" alt="Background"/>
+</p>
 
-🧩 Otros trabajos de ingeniería
+🔒 El código de producción, la infraestructura interna, servidores, proveedores privados y detalles sensibles no se publican.
+
+🧩 Ingeniería seleccionada
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-🚌 Sistemas IoT para transporte
+🚌 IoT para transporte
 
-Dispositivos de campo conectados con plataformas operativas centrales.
+Arquitectura y desarrollo de sistemas que conectan dispositivos instalados en campo con plataformas centrales.
 
-Enfoque
+Tecnologías
 
 TCP/IP
 Embedded Linux
@@ -233,9 +392,9 @@ RFID/NFC
 
 💳 RFID / DESFire
 
-Infraestructura de tarjetas inteligentes para transporte e identificación.
+Infraestructura para tarjetas inteligentes utilizada en transporte e identificación.
 
-Enfoque
+Tecnologías
 
 MIFARE DESFire
 PN532
@@ -248,7 +407,7 @@ C / Python
 
 🔌 C nativo → Python
 
-Librería compartida para exponer operaciones RFID/NFC a Python.
+Librería compartida para exponer operaciones RFID/NFC a aplicaciones Python.
 
 Flujo
 
@@ -264,61 +423,82 @@ Lógica de negocio
 </tr>
 </table>
 
-🧠 Perfil de ingeniería
+🧠 Capacidades
 
-Área
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Experiencia
+Liderazgo & arquitectura
 
-Liderazgo técnico
+Technical Leadership
 
-Arquitectura, priorización, coordinación de equipos y decisiones de producción
+Software Architecture
 
-Arquitectura de software
+Product Development
 
-Diseño end-to-end de plataformas y sistemas operativos
+Priorización
 
-Backend
+Coordinación de equipos
 
-APIs, lógica de negocio, procesamiento e integraciones
+Decisiones de producción
 
-Mobile
+Backend & datos
 
-Flutter, GPS, procesos en background y flujos operativos
+APIs
 
-IoT
+Lógica de negocio
 
-Comunicación dispositivo-servidor y sistemas de campo
+Procesamiento
 
-Embedded Systems
+Integraciones
 
-Linux embebido, Raspberry Pi, GPIO y serial
+SQL Server
+
+MySQL
+
+SQLite
+
+</td>
+<td width="50%" valign="top">
+
+IoT & sistemas
+
+TCP/IP
+
+WebSockets
+
+Serial / RS485
+
+Embedded Linux
+
+Raspberry Pi
+
+GPIO
+
+C / C++
 
 RFID / NFC
 
-MIFARE DESFire, PN532, libnfc y libfreefare
+MIFARE DESFire
 
-Networking
+PN532
 
-TCP/IP, WebSockets, Serial y RS485
+libnfc
 
-Datos
+libfreefare
 
-SQL Server, MySQL y SQLite
+HCE
 
-Integración de sistemas
-
-Hardware ↔ Software ↔ Backend ↔ Operación
-
-Automatización
-
-Flujos operativos, integraciones y software empresarial
+</td>
+</tr>
+</table>
 
 🛠️ Stack técnico
 
 <div align="center">
 
-Backend & Arquitectura
+Backend & arquitectura
 
 <img src="https://skillicons.dev/icons?i=py,php,laravel,flask,django" alt="Backend" />
 
@@ -332,7 +512,7 @@ Sistemas & Embedded
 
 Datos & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,azure,aws,firebase" alt="Data and cloud" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,azure,aws,firebase" alt="Cloud" />
 
 IA & Visión artificial
 
@@ -364,7 +544,7 @@ CEO
 
 Lidero el desarrollo y evolución de soluciones relacionadas con:
 
-tecnología para transporte;
+transporte;
 
 software;
 
@@ -378,9 +558,7 @@ plataformas backend;
 
 RFID/NFC;
 
-integración hardware/software;
-
-sistemas operativos.
+integración hardware/software.
 
 Continúo involucrado directamente en decisiones de arquitectura, ingeniería y producto.
 
@@ -414,8 +592,6 @@ Visitar LOMAR →
 </table>
 
 🧪 R&D / Proyectos personales
-
-Además de los sistemas en producción, utilizo proyectos propios para experimentar con nuevas tecnologías y dominios de ingeniería.
 
 <table>
 <tr>
