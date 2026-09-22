@@ -637,18 +637,52 @@ OpenCV
 
 📊 GitHub
 
+<table>
+<tr>
+<td width="25%" align="center">
+
+👤 Perfil
+
+Ver perfil completo →
+
+</td>
+<td width="25%" align="center">
+
+💻 Repositorios
+
+Explorar proyectos →
+
+</td>
+<td width="25%" align="center">
+
+📈 Actividad
+
+Ver contribuciones →
+
+</td>
+<td width="25%" align="center">
+
+🤝 Comunidad
+
+Ver seguidores →
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ErnestoLomar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="Estadísticas de GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLomar&layout=compact&hide_border=true&theme=transparent"
-    alt="Lenguajes principales"
-  />
+  <a href="https://github.com/ErnestoLomar">
+    <img src="https://img.shields.io/badge/GitHub-ErnestoLomar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Ernesto Lomar"/>
+  </a>
+  <a href="https://github.com/ErnestoLomar?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
+  </a>
+  <a href="https://github.com/ErnestoLomar?tab=followers">
+    <img src="https://img.shields.io/badge/Comunidad-Seguidores-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="Seguidores"/>
+  </a>
 </p>
+
+El foco del perfil está en documentar proyectos, arquitectura y experiencia técnica. Parte importante del trabajo profesional de producción es propietario y no se publica como código abierto.
 
 🤝 Contacto
 
