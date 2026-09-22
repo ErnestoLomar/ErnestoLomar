@@ -1,438 +1,164 @@
 <!-- =========================================================
-     ERNESTO LOMAR — GITHUB PROFILE README
+  ERNESTO LOMAR — GITHUB PROFILE README
 ========================================================= -->
 
-<!-- ======= HEADER ======= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ernesto%20Lomar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20IoT%20%C2%B7%20Embedded%20Systems&descAlignY=58&descSize=16"
-    alt="Ernesto Lomar"
-  />
-</p>
+Ernesto Lomar
 
-<p align="center">
-  <strong>CEO @ Alttus TI · Founder @ LOMAR</strong>
-</p>
+Software Engineer · CEO @ Alttus TI · Founder @ LOMAR
 
-<p align="center">
-  Building technology for real-world operations.
-</p>
+Backend · IoT · Embedded Systems · Software Architecture · Technical Leadership
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ErnestoLomar">
-    <img
-      src="https://komarev.com/ghpvc/?username=ErnestoLomar&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile views"
-    />
-  </a>
-  <a href="https://github.com/ErnestoLomar?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/ErnestoLomar?label=Followers&style=flat&color=0e75b6"
-      alt="GitHub followers"
-    />
-  </a>
-</p>
+Building technology for real-world operations.
 
-<br>
+Portfolio ·
+LinkedIn ·
+LOMAR ·
+Instagram
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=850&lines=Backend+%C2%B7+IoT+%C2%B7+Embedded+Systems;Devices+%E2%86%92+Connectivity+%E2%86%92+Backend+%E2%86%92+Data+%E2%86%92+Operations;Engineering+%C2%B7+Architecture+%C2%B7+Technical+Leadership"
-    alt="Typing SVG"
-  />
-</p>
+</div>
 
-👋 About Me
+About
 
-I'm Ernesto Lomar, a Software Engineer focused on Backend, IoT and Embedded Systems.
+I’m Ernesto Lomar, a Software Engineer based in San Luis Potosí, México.
 
-My work is centered around systems where software has to interact with the real world: field devices, communications, geolocation, RFID/NFC, embedded Linux, backend services, databases and operational platforms.
+My work focuses on systems where software has to interact with the real world: mobile applications, field devices, geolocation, backend services, operational dashboards, RFID/NFC, embedded Linux and production infrastructure.
 
-I currently combine engineering with technical leadership as:
+Today I combine hands-on engineering with technical leadership as:
 
 CEO at Alttus TI
 
 Founder of LOMAR
 
-Over the years, my role has evolved from developing individual software components to designing architectures, leading teams, making product decisions and taking complete systems into production.
+My approach is centered on building complete systems, not isolated features:
 
-I enjoy solving problems that require connecting multiple layers of technology:
+Devices → Connectivity → Backend → Data → Operations
 
-Devices → Connectivity → Backend → Data → Business Operations
-
-📍 San Luis Potosí, México
-
-🌐 Portfolio
-
-🚕 Featured Professional Work
+Featured Work
 
 Mi Taxi — Mobility Platform
 
-CEO · Technical Leadership · Software Architecture · Product
+Role: CEO · Technical Leadership · Software Architecture · Product
+Organization: Alttus TI
+Client: Secretaría de Comunicaciones y Transportes de San Luis Potosí
+Started: October 2025
+Production: August 2026
 
-One of the most important projects in my professional career has been Mi Taxi, a mobility platform developed by Alttus TI for the Secretaría de Comunicaciones y Transportes de San Luis Potosí.
+Mi Taxi is a production mobility platform developed end-to-end by Alttus TI to connect passengers, drivers and operational teams within one digital ecosystem.
 
-The project started in October 2025 and went into production in August 2026.
+As CEO, I led the project from architecture and planning through production, coordinating an approximately 10-person team and remaining closely involved in technical and product decisions.
 
-As CEO of Alttus TI, I led the project from its general architecture and planning to production and continuous evolution.
+Scope
 
-My responsibilities included:
+Layer
 
-Designing the overall system architecture
-
-Leading a team of approximately 10 people
-
-Requirements analysis and project planning
-
-Product and technical decision-making
-
-Prioritization of features and production releases
-
-Coordination with institutional stakeholders
-
-Monitoring development and delivery
-
-Production support and continuous improvement
-
-Close involvement in the development of the driver application
-
-The platform includes:
+Capabilities
 
 Passenger App
-      │
-      ▼
+
+Registration, trip requests, tracking, fare estimation, payments, history, ratings, SOS
+
+Driver App
+
+Availability, ride requests, navigation, trip lifecycle, digital taximeter, payments, history
+
 Backend & APIs
-      │
- ┌────┴────┐
- ▼         ▼
-Driver   Operations
- App      Dashboard
- │
- ▼
-GPS · Trips · Fares · Safety · Payments
 
-Platform Capabilities
+Users, trips, drivers, GPS, fares, payments, notifications, operational logic
 
-Passenger mobile application
+Operations Dashboard
 
-Driver mobile application
+Monitoring, drivers, vehicles, trips, fares, reports, incidents, configuration
 
-Backend services and APIs
+Integrations
 
-Operational and administrative dashboard
-
-GPS tracking
-
-Driver assignment by proximity
-
-Trip lifecycle management
-
-Digital taximeter
-
-Cash and card payments
-
-Notifications
-
-Ratings and trip history
-
-SOS and safety functionality
-
-Operational monitoring
-
-Google Maps integrations
-
-Firebase integrations
-
-SMS, email and call integrations
+Google Maps APIs, Firebase, SMS, email, calls, real-time safety flows
 
 Scale
 
-2,500+ Drivers
-7,500+ Passengers
-10,000+ Requests during FENAPO
+<div align="center">
 
-Technology
+2,500+
 
-Flutter · Dart · Laravel · Google Maps APIs · Firebase · GPS · REST APIs · Realtime Systems
+7,500+
 
-The production source code and internal infrastructure are proprietary and are not publicly available.
+10,000+
 
-⚙️ Engineering Challenge — Digital Taximeter
+Drivers
 
-One of the most interesting engineering challenges in Mi Taxi involved the digital taximeter.
+Passengers
 
-The fare calculation depends on distance and time and must continue operating correctly during normal driver behavior.
+Requests during FENAPO
 
-During testing and production usage, we identified variations when drivers:
+</div>
 
-locked their phones;
+Architecture
+
+┌─────────────────┐
+│  Passenger App  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Backend & APIs  │
+└──────┬─────┬────┘
+       │     │
+       ▼     ▼
+┌──────────┐ ┌──────────────────┐
+│Driver App│ │Operations Dashboard│
+└────┬─────┘ └──────────────────┘
+     │
+     ▼
+ GPS · Trips · Fares · Safety · Payments
+
+Engineering Challenge — Digital Taximeter
+
+One of the most important production challenges involved the digital taximeter.
+
+Fare calculation depends on both distance and time, and the process had to remain reliable even when drivers:
+
+locked the device;
 
 switched to another application;
 
-left the Mi Taxi application in the background.
+left Mi Taxi running in the background.
 
-The solution was to separate the taximeter process from the visible lifecycle of the application.
+The solution was to move the taximeter logic into an independent background process so calculation could continue outside the visible lifecycle of the app.
 
-This allowed the fare calculation process to continue independently while the user interacted normally with the device.
+This reinforced one of the principles that guides my work:
 
-It was a practical reminder of something I strongly believe in:
+Production software must be designed around real user behavior, not ideal scenarios.
 
-Production software must be designed around how people actually use systems, not only around ideal scenarios.
+Technology
 
-🧭 What Mi Taxi Changed for Me
+Flutter · Dart · Laravel · Google Maps APIs · Firebase · GPS · REST APIs · Real-time Systems
 
-Mi Taxi was the first project where my responsibility extended simultaneously across:
+Production source code, internal infrastructure, server details and private integrations are proprietary.
 
-Engineering
-     +
-Architecture
-     +
-Product
-     +
-Team Leadership
-     +
-Client Management
-     +
-Production Operations
-
-It required balancing technical decisions with:
-
-delivery time;
-
-stability;
-
-scalability;
-
-cost;
-
-user experience;
-
-business requirements;
-
-operational realities.
-
-That experience changed how I think about software engineering.
-
-The technically most sophisticated solution is not always the right solution.
-
-The right solution is the one that achieves the necessary balance between technology, users, operation and business.
-
-🚀 Other Professional Engineering Work
+Selected Engineering Work
 
 Transportation IoT Systems
 
-Development and architecture of systems that connect devices installed in transportation environments with centralized backend infrastructure.
-
-Field Devices
-     │
-     │ TCP/IP
-     ▼
-Communication Layer
-     │
-     ▼
-Processing
-     │
-     ▼
-Database
-     │
-     ▼
-Operational Platform
-
-Main areas:
+Architecture and development of systems that connect devices installed in transportation environments with centralized backend infrastructure.
 
 IoT · TCP/IP · Embedded Linux · Python · SQL Server · RFID/NFC
 
-💳 RFID / MIFARE DESFire Systems
+RFID / MIFARE DESFire
 
-Development and integration of RFID/NFC infrastructure for transportation and identification systems.
+Integration of RFID/NFC infrastructure for transportation and identification systems.
 
-Experience includes:
+C · Python · MIFARE DESFire · PN532 · libnfc · libfreefare
 
-MIFARE DESFire
+Native RFID Library — C / Python
 
-PN532
+Shared library written in C to expose RFID/NFC operations to Python applications through a common interface.
 
-libnfc
-
-libfreefare
-
-card reading and writing
-
-balance operations
-
-embedded device integration
-
-backend integration
-
-Technologies:
-
-C · Python · RFID/NFC · MIFARE DESFire · PN532
-
-🔌 Native RFID Library — C / Python
-
-Development of a shared native library written in C to standardize RFID/NFC operations and expose them to Python applications.
-
-RFID Hardware
-      │
-      ▼
-Native C Library
-      │
-      │ .so
-      ▼
-Python Application
-      │
-      ▼
-Business Logic
-
-The library was designed to abstract operations such as:
-
-card reading;
-
-writing;
-
-balance operations;
-
-interaction with MIFARE-based systems.
-
-Technologies:
+RFID Hardware → Native C Library (.so) → Python → Business Logic
 
 C · Shared Libraries · Python · ctypes · RFID/NFC
 
-🧠 Engineering Focus
-
-                         ┌─────────────────────┐
-                         │   FIELD DEVICES     │
-                         │ IoT · GPS · RFID    │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │   CONNECTIVITY      │
-                         │ TCP · Serial · WS   │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      BACKEND        │
-                         │ APIs · Processing   │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │        DATA         │
-                         │ SQL · Persistence   │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     OPERATIONS      │
-                         │ Apps · Dashboards   │
-                         └─────────────────────┘
-
-🛠 Tech Stack
-
-Backend & Architecture
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,php,laravel,flask,django" alt="Backend technologies" />
-</p>
-
-REST APIs · Backend Services · Business Logic · Systems Integration
-
-Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile technologies" />
-</p>
-
-Flutter · Dart · Mobile Architecture · GPS · Background Processes
-
-IoT & Embedded Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,arduino" alt="Embedded technologies" />
-</p>
-
-Embedded Linux · Raspberry Pi · GPIO · Serial · RS485 · TCP/IP
-
-RFID / NFC
-
-MIFARE DESFire · PN532 · libnfc · libfreefare · HCE
-
-Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
-</p>
-
-SQL Server · MySQL · SQLite
-
-Cloud & Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,firebase" alt="Cloud technologies" />
-</p>
-
-Azure · AWS · Firebase · Google Maps APIs
-
-Applied AI & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" alt="AI technologies" />
-</p>
-
-OpenAI API · LangChain · Whisper · OpenCV
-
-🏢 Current Roles
-
-CEO — Alttus TI
-
-I lead the development and evolution of technological solutions involving:
-
-Software engineering
-
-Transportation technology
-
-IoT
-
-Embedded systems
-
-Mobile applications
-
-Backend infrastructure
-
-RFID / NFC
-
-Hardware / software integration
-
-Operational systems
-
-I remain directly involved in architecture, engineering and product decisions.
-
-Founder — LOMAR
-
-LOMAR focuses on turning complex business operations into software.
-
-The goal is to replace fragmented processes, spreadsheets and disconnected tools with systems designed around the real operation of the business.
-
-Main areas:
-
-Custom business software
-
-Process automation
-
-System integrations
-
-Operational dashboards
-
-IoT integrations
-
-Applied AI
-
-🌐 lomar.dev
-
-🔬 Areas of Experience
+Engineering Focus
 
 Area
 
@@ -440,43 +166,39 @@ Experience
 
 Technical Leadership
 
-Architecture, prioritization, teams and production decisions
+Architecture, prioritization, team coordination, production decisions
 
 Software Architecture
 
-End-to-end systems and platform design
+End-to-end system design and operational platforms
 
-Backend
+Backend Engineering
 
-APIs, business logic, data processing and integrations
+APIs, business logic, processing, integrations
 
 Mobile
 
-Flutter applications and operational workflows
+Flutter applications, GPS, background services, operational flows
 
 IoT
 
 Device-server communication and field systems
 
-Embedded Linux
+Embedded Systems
 
-Linux-based devices and Raspberry Pi
+Linux-based devices, Raspberry Pi, GPIO, serial communication
 
 RFID / NFC
 
-Smart-card and identification integrations
-
-MIFARE DESFire
-
-Card communication and system integration
+MIFARE DESFire, PN532, libnfc, libfreefare
 
 Networking
 
-TCP/IP, sockets, serial communication and WebSockets
+TCP/IP, WebSockets, serial, RS485
 
-Databases
+Data
 
-SQL Server, MySQL and SQLite
+SQL Server, MySQL, SQLite
 
 Systems Integration
 
@@ -484,91 +206,125 @@ Hardware ↔ Software ↔ Backend ↔ Operations
 
 Automation
 
-Operational workflows and software integrations
+Operational workflows, integrations and business software
 
-🧪 Experiments & R&D
+Tech Stack
 
-Alongside production systems, I also enjoy experimenting with emerging technologies and different engineering domains.
+<div align="center">
+
+Backend & Architecture
+
+<img src="https://skillicons.dev/icons?i=py,php,laravel,flask,django" alt="Backend stack" />
+
+Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile stack" />
+
+Systems & Embedded
+
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,arduino" alt="Embedded stack" />
+
+Data & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,azure,aws,firebase" alt="Data and cloud stack" />
+
+AI & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" alt="AI stack" />
+
+</div>
+
+Additional technologies:
+
+SQL Server · Raspberry Pi · TCP/IP · WebSockets · RS485 · MIFARE DESFire · PN532 · Google Maps APIs · OpenAI API · LangChain · Whisper
+
+Current Roles
+
+CEO — Alttus TI
+
+I lead the development and evolution of solutions involving:
+
+transportation technology;
+
+software engineering;
+
+IoT;
+
+embedded systems;
+
+mobile applications;
+
+backend platforms;
+
+RFID/NFC;
+
+hardware/software integration;
+
+operational systems.
+
+I remain directly involved in architecture, engineering and product decisions.
+
+Founder — LOMAR
+
+LOMAR turns complex business operations into software.
+
+Main focus:
+
+custom business software;
+
+process automation;
+
+system integrations;
+
+operational dashboards;
+
+IoT integrations;
+
+applied AI.
+
+Visit LOMAR →
+
+R&D
+
+I also use side projects to explore new technologies and engineering domains.
 
 MovieBot
-
 Conversational movie recommendation system using LLMs and real movie data.
-
 Python · Flask · OpenAI API · LangChain · TMDb
 
 SofhIA
-
-Question Answering system for querying PDFs, YouTube videos, URLs and text using extraction, embeddings and language models.
-
+Question answering for PDFs, YouTube videos, URLs and text.
 Python · Flask · Whisper · OpenAI · Embeddings
 
 Computer Vision Systems
-
-Development of computer vision applications for automated detection, timing and event processing.
-
+Detection, timing and event-processing applications.
 Python · PyQt5 · OpenCV
 
-📊 GitHub
+GitHub
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ErnestoLomar&show_icons=true&hide_border=true&theme=transparent"
-    alt="Ernesto Lomar GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLomar&layout=compact&hide_border=true&theme=transparent"
-    alt="Top languages"
-  />
-</p>
+<div align="center">
 
-🤝 Connect
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ErnestoLomar&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
 
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLomar&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
-  <a href="https://www.linkedin.com/in/ernestolomar/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+</div>
 
-  <a href="https://www.instagram.com/ernestolomar/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-0e75b6?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
+Contact
 
-  <a href="https://lomar.dev" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LOMAR-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="LOMAR"
-    />
-  </a>
+<div align="center">
 
-  <a href="mailto:marioernestolomar@proton.me">
-    <img
-      src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=protonmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
 
-</p>
 
-<br>
 
-<p align="center">
-  <strong>Software should do more than run.</strong><br>
-  <sub>It should solve real problems.</sub>
-</p>
 
-<!-- ======= FOOTER ======= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"
-    alt="Footer"
-  />
-</p>
+</div>
+
+<div align="center">
+
+Software should do more than run.
+
+It should solve real problems.
+
+</div>
